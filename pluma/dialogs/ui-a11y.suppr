@@ -1,0 +1,17 @@
+pluma-preferences-dialog.ui://GtkLabel[@id='view_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='text_wrapping_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='highlighting_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='display_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='tab_stops_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='editor_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='tab_stops_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='automatic_indentation_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='file_saving_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='show_spaces_tabs_newlines_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='font_colours_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='font_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='color_scheme_label'] orphan-label
+pluma-preferences-dialog.ui://GtkLabel[@id='plugins_label'] orphan-label
+pluma-preferences-dialog.ui://GtkTreeView[@id='schemes_treeview'] no-labelled-by
+pluma-search-dialog.ui://GtkLabel[@id='search_label'] orphan-label
+pluma-search-dialog.ui://GtkLabel[@id='replace_with_label'] orphan-label
